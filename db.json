@@ -1,14 +1,63 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "walking": [{
+      "id": 1,
+      "date": "2019-07-24T09:24:06.364Z",
+      "distance": 12500
+    },
+    {
+      "id": 2,
+      "date": "2019-07-24T09:25:44.252Z",
+      "distance": 7500
+    },
+    {
+      "date": "2019-07-24T09:35:06.654Z",
+      "distance": 22000,
+      "id": 3
+    },
+    {
+      "date": "2019-06-13T09:35:06.654Z",
+      "distance": 1000,
+      "id": 4
+    },
+    {
+      "date": "2019-03-04T09:35:06.654Z",
+      "distance": 5600,
+      "id": 5
+    },
+    {
+      "date": "2019-03-04T09:35:06.654Z",
+      "distance": 200,
+      "id": 6
+    },
+    {
+      "date": "2019-03-04T09:35:06.654Z",
+      "distance": 600,
+      "id": 7
+    },
+    {
+      "date": "2019-03-04T09:35:06.654Z",
+      "distance": 4300,
+      "id": 8
+    },
+    {
+      "date": "2019-03-04T09:35:06.654Z",
+      "distance": 8000,
+      "id": 9
+    },
+    {
+      "date": "2019-03-04T09:35:06.654Z",
+      "distance": 600,
+      "id": 10
+    },
+    {
+      "date": "2019-03-04T09:35:06.654Z",
+      "distance": 322,
+      "id": 11
+    },
+    {
+      "date": "2019-03-04T09:35:06.654Z",
+      "distance": 3500,
+      "id": 12
+    }
+  ]
 }
